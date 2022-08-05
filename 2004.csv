@@ -1,0 +1,377 @@
+Dados de Precipitação Mensal das Estações,,,,,,,,,,,,,,,,,
+Estação,Latitude,Longitude,Jan/04,Fev/04,Mar/04,Abr/04,Mai/04,Jun/04,Jul/04,Ago/04,Set/04,Out/04,Nov/04,Dez/04,Região,Rpga,Total
+Salvador - CIA,-12.865789,-38.365219,402.1,94,12.5,347.2,154.9,465,234.8,211.3,58.5,80,237.5,8.5,Recôncavo,RPGA do Recôncavo Norte,2060.3
+Mata de São João - EBDA,-12.534671,-38.30105,334.7,87.5,75,156,159.5,239,168,208,73,84,114,1,Recôncavo,RPGA do Recôncavo Norte,1584.7
+Salvador - Canabrava,-12.924122,-38.429942,386.5,155.6,96.6,362.1,225.6,458.5,289.5,203.8,34,84.5,237,6,Recôncavo,RPGA do Recôncavo Norte,2296.71
+São Sebastião do Passé - EBDA,-12.518004,-38.501056,449,105,59,58.5,165,370.6,108,186,40,39,119.1,0,Recôncavo,RPGA do Recôncavo Norte,1580.1
+Salvador - Itapuã - RN-CL-01,-12.931388,-38.361111,344,123.5,51.25,238.5,139.75,275.75,166,167.75,28.25,28.25,239.5,0.25,Recôncavo,RPGA do Recôncavo Norte,1563
+Catu - EBDA,-12.351333,-38.384384,340.5,80,52.5,100,95,129.7,190.5,152.5,32.5,15,49,0,Recôncavo,RPGA do Recôncavo Norte,1188.2
+Itaparica - EBDA,-12.884677,-38.684395,356.5,107.5,58.5,327.3,282.5,350.2,216.7,150.2,27.5,196.5,,,Recôncavo,RPGA do Recôncavo Sul,2073.4
+Santo Amaro - DERBA,-12.534669,-38.701059,266,100,40,163,99,176,139.8,135,8,0,119,0,Recôncavo,RPGA do Recôncavo Norte,1126.8
+Salvador (Abaeté) - RN-PR-01,-12.945407,-38.361404,,,51.25,252,132,273,195.5,134,28.5,27.75,239.55,0.25,Recôncavo,RPGA do Recôncavo Norte,1094
+Salvador (J. Zoológico) - A401,-13.005515,-38.50576,305.6,168.6,130.4,285.6,164.8,314.6,226.2,132.8,43.8,88.2,144.2,13.2,Recôncavo,RPGA do Recôncavo Norte,1860.6
+Salvador (Ondina) - 83229,-13.005278,-38.505833,319.4,165.3,121.9,278.4,159.5,326.3,218.4,129.5,40.5,82,167.6,10.9,Recôncavo,RPGA do Recôncavo Norte,1841.2
+Inhambupe - EBDA,-11.784656,-38.351047,440.7,149.5,35.5,60.5,82.5,71,30.5,112.9,30.6,6,59,0,Nordeste,RPGA do Recôncavo Norte,1019.7
+Entre Rios - EBDA,-11.951326,-38.084374,439.9,47.3,20.6,79.8,163.8,109,106.2,107,74.7,30,90.5,1,Nordeste,RPGA do Recôncavo Norte,1178.31
+Paripiranga - EBDA,-10.684633,-37.851032,359.2,169.6,9.8,18.8,106.8,71.4,149.3,94.8,49,0,23.4,0,Nordeste,RPGA do Rio Vaza-Barris,1028.7
+Rio Real - EBDA,-11.48465,-37.934369,291.8,29.1,35,50.6,129,88.6,59.4,94.2,46.4,8,17.8,0,Nordeste,RPGA do Rio Real,832.1
+Esplanada - EBDA,-11.784656,-37.951038,449.7,59,35,56.3,121.5,105.1,60,91.3,71.2,22,43.9,0,Nordeste,RPGA do Recôncavo Norte,1071.1
+Cícero Dantas - EBDA,-10.584629,-38.384377,423,155,29.7,25.5,195,81,113,84,50.5,0,69.5,0,Nordeste,RPGA do Rio Real,1156.7
+Conceição de Jacuípe - EBDA,-12.317998,-38.767728,277.6,49,106,50,140,174,54,79,14,4,0,0,Recôncavo,RPGA do Recôncavo Norte,947.6
+Alcobaça - EBDA,-17.520876,-39.196654,128.1,87.4,419.6,176.7,45.2,61.8,83.6,76,29,71.4,222.5,212,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",1178.81
+Muritiba - EBDA,-12.618004,-38.984401,310,200,42.5,152.5,157.5,262.5,86.5,72.5,67,77.5,72.5,0,Recôncavo,RPGA do Rio Paraguaçu,1428.5
+Cruz das Almas - EBDA,-12.668004,-39.101071,298.9,192.5,60.5,161.5,174.2,196.6,88.8,67.5,11.5,113.5,140.1,0,Recôncavo,RPGA do Rio Paraguaçu,1365.5
+Coração de Maria - EBDA,-12.234663,-38.751059,291,90.9,8,30.5,46,99.6,12,66,0,7.5,65,0,Recôncavo,RPGA do Recôncavo Norte,651.5
+Conceição da Feira - EBDA,-12.501335,-39.001068,260.5,45,17.5,67.5,137.5,116.5,65.5,65,7.5,65,59.5,5.6,Recôncavo,RPGA do Recôncavo Norte,847.5
+Conceição do Almeida - EBDA,-12.768005,-39.16774,339.5,128.5,69,123.5,174.5,160,97.5,64,19.5,111,112.5,,Recôncavo,RPGA do Recôncavo Sul,1287
+Alagoinhas - 83249,-12.148333,-38.425556,312.8,41.8,55.2,146.5,94.3,99.3,59.9,62.7,39.9,18.6,41.2,2.8,Recôncavo,RPGA do Recôncavo Norte,931
+Aramari - EBDA,-12.08466,-38.501053,297.2,77.7,24.9,54,70.5,104,59,61.5,26,18,73,4,Recôncavo,RPGA do Recôncavo Norte,792.8
+Jeremoabo - EBDA,-10.067951,-38.351041,112.5,28.8,0,0,151.6,30.2,19,61.2,8.6,0,10.4,0,Nordeste,RPGA do Rio Vaza-Barris,411.9
+Caravelas - 83498,-17.739167,-39.258333,159.7,156.7,359.5,137.5,93.4,163.1,162.6,61.2,5.6,122.2,201.9,,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",1421.5
+Heliópolis - EBDA,-10.667965,-38.284375,262.4,143.1,11.1,48.7,131.3,65,45,60.5,23.8,0,22.5,0,Nordeste,RPGA do Rio Real,790.9
+Santa Bárbara - EBDA,-11.984657,-38.984398,406,90,70,21,66,130,40,60,0,0,0,0,Nordeste,RPGA do Recôncavo Norte,883
+Paulo Afonso - EBDA,-9.401269,-38.217702,270.1,35.8,70.2,0,128.6,22.9,20.1,57.2,9.7,0,0,4,Nordeste,RPGA dos Rios Macururé e Curaçá,614.61
+Feira de Santana - EBDA,-12.268274,-38.96801,256.5,139,43,47,44.5,158,28.5,56.5,5,11,151.6,0,Recôncavo,RPGA do Rio Paraguaçu,789
+Coaraci,-14.634708,-39.551092,100.4,362.4,88.8,216.4,67.2,53.4,80.7,56,67.6,81,207.7,0,Sul,RPGA do Leste,1173.9
+Cruz das Almas - A406,-12.675422,-39.08958,,,56.6,128,118.4,130.4,63.4,55.6,14.2,77.4,,,Recôncavo,RPGA do Rio Paraguaçu,644
+Cruz das Almas - 83222,-12.666667,-39.083333,349.8,244.6,31.7,,118.9,131.9,,54.3,11.2,89.3,110.3,0,Recôncavo,RPGA do Rio Paraguaçu,1031.7
+Antas - EBDA,-10.401293,-38.334375,339.9,144.2,16.8,0,167.9,71.7,71.9,53.6,42.8,0,5.6,0,Nordeste,RPGA do Rio Vaza-Barris,908.8
+Adustina - EBDA,-10.534629,-38.117704,218.2,157.3,3.9,0,102.4,47.1,66.7,52.2,17,0,39.5,0,Nordeste,RPGA do Rio Vaza-Barris,664.81
+Serrinha - EBDA,-11.651317,-38.967731,377,15,98,42,83,105,54.5,52,0,0,92,0,Nordeste,RPGA do Recôncavo Norte,826.5
+Itapicuru (EBDA Rib. Pombal) - EBDA,-11.317978,-38.217708,495.4,67.5,1.5,11.8,83.6,34,52.5,49.3,22.8,0,60.5,0,Nordeste,RPGA do Rio Itapicuru,818.4
+Sátiro Dias - EBDA,-11.58465,-38.584386,365.1,90,18.5,61.5,84.5,69,53,47,20.5,7,89.5,0,Nordeste,RPGA do Recôncavo Norte,816.1
+Glória - EBDA,-9.351269,-38.251038,156.8,10.5,45,0,88,5.5,0,47,0,0,0,0,Nordeste,RPGA dos Rios Macururé e Curaçá,352.8
+Valente - EBDA,-11.417977,-39.48441,353,10,0,0,70,53,59.5,46.5,0,5,67.9,0,Nordeste,RPGA do Rio Paraguaçu,597
+Alagoinhas - EBDA,-12.134662,-38.434384,355.1,55,79,117,73,96,87.3,45,46,12,60,1,Recôncavo,RPGA do Recôncavo Norte,965.4
+Ribeira do Pombal - EBDA,-10.834635,-38.534383,300,157,36,28,102,88,68,43,31,0,120,10,Nordeste,RPGA do Rio Itapicuru,853
+Sítio do Quinto - EBDA,-10.367959,-38.201038,169.7,148.4,21.7,0,136.8,46.4,46.1,42.8,24.5,0,22.3,0,Nordeste,RPGA do Rio Vaza-Barris,636.4
+Olindina_EBDA - EBDA,-11.351311,-38.33438,321,46.3,15.8,3.8,53.4,41.6,34,42.5,12.6,0,88.1,0,Nordeste,RPGA do Rio Itapicuru,571.01
+Paulo Afonso - A411,-9.379325,-38.227424,,,,0.8,130.2,55.2,22.2,41.8,8.4,0,,,Nordeste,RPGA dos Rios Macururé e Curaçá,258.6
+Santo Antônio de Jesus - EBDA,-12.96801,-39.267744,298.5,116.5,88,107.5,179,205,139.5,41.5,74,116.5,73,40,Recôncavo,RPGA do Recôncavo Sul,1366
+Ponte do Rio Branco - Embasa,-12.284663,-39.001068,232.1,102.1,54.1,82.3,36.1,102.7,35.3,40.7,2.2,5.9,100.6,3.4,Recôncavo,RPGA do Rio Paraguaçu,693.51
+Feira de Santana - DERBA,-12.251329,-38.767728,243.7,99.9,18.3,0,32.9,93.3,35.8,38.8,4.6,0,72.5,0,Recôncavo,RPGA do Recôncavo Norte,567.3
+Feira de Santana - 83221,-12.196111,-38.967222,277.7,95.1,19.3,70.3,46.2,,30.6,37.7,6.8,5.9,93.9,2.6,Recôncavo,RPGA do Recôncavo Norte,589.6
+Feira de Santana - Fz.C. Mocó - EBDA,-12.267996,-38.967732,281,0,10,86,46,110,33,37,0,0,68.5,0,Recôncavo,RPGA do Rio Paraguaçu,603
+Pedro Alexandre - EBDA,-10.017951,-37.884362,133.2,68.5,0,0,87.5,39.2,27.3,36.2,8.6,0,0,0,Nordeste,RPGA do Rio Vaza-Barris,400.5
+Biritinga -EBDA - EBDA,-11.617983,-38.817726,406,10,0,60.5,40,104.5,49.5,36,18,0,79,0,Nordeste,RPGA do Recôncavo Norte,724.5
+Nova Soure - EBDA,-11.251311,-38.484383,423,110,21.5,35,124,55,66.5,35.5,13,0,98,0,Nordeste,RPGA do Rio Itapicuru,883.5
+Santa Brígida - EBDA,-9.734611,-38.134368,272.4,16.5,50,0,99,3,2,34,0,0,0,0,Nordeste,RPGA do Riacho do Tará,476.9
+Serrinha - RN-CL-02,-11.648333,-38.982777,316.25,70.25,47.5,36.25,48.5,70,32.25,33.25,3.25,6.75,55.5,2.5,Nordeste,RPGA do Recôncavo Norte,664.25
+Serrinha - 83190,-11.633333,-38.966667,344.5,79.3,20.1,48.6,53.5,86.9,32.4,31.8,4.2,,66.1,0,Nordeste,RPGA do Recôncavo Norte,701.3
+Senhor do Bonfim - 83088,-10.490649,-40.100044,281.7,134.6,51.3,18.1,54.8,25,23.5,30.5,14.3,5.4,120.8,,Nordeste,RPGA do Rio Itapicuru,639.2
+Itamaraju - EBDA,-17.068089,-39.534438,201.2,85.9,248.5,195.52,119.6,82.2,81.3,29.5,25.5,41,146,113,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",1110.22
+Camacã,-15.418059,-39.051083,96.4,50.9,91.4,116.8,84.8,152.5,106.4,29.4,20,46.4,216.2,17.4,Sul,RPGA do Leste,795
+Ilhéus - A410,-14.658803,-39.181438,135.8,153.8,405.4,176.2,253,180.2,157.8,28.6,42,89.4,,,Sul,RPGA do Leste,1622.2
+Tanquinho - Embasa,-11.971323,-39.101068,293,115.4,61.6,41.9,40.2,81.4,24.8,27.6,6.8,9.6,101.6,31,Nordeste,RPGA do Rio Paraguaçu,702.3
+Eunápolis - FB-CL-01,-16.290555,-39.579722,203.5,116.5,250.95,164.25,123.5,71.25,112,26,22.5,47.5,210.5,79.8,Sul,"RPGA dos Rios dos Frades, Buranhém e Santo Antônio",1137.95
+Santo Estêvão - EBDA,-12.434665,-39.251074,327.5,103,10,82,78.5,103,41,22.5,10,15,48.5,9.5,Recôncavo,RPGA do Rio Paraguaçu,792.5
+Riachão do Jacuípe_EBDA,-11.801317,-39.384408,247,130.6,43.5,42,51.5,63.9,20,21.5,0,3.5,80.5,10,Nordeste,RPGA do Rio Paraguaçu,623.5
+Senhor do Bonfim - DERBA,-10.467954,-40.184425,299,145.4,33.2,0,8.7,8.5,7,21.2,0,,,0,Nordeste,RPGA do Rio Itapicuru,523
+Guaratinga - 83446,-16.58,-39.78,171.5,189.4,313.7,104.7,84.5,65,83.9,20.5,15.1,28.7,92,44.8,Sul,"RPGA dos Rios dos Frades, Buranhém e Santo Antônio",1077
+Conceição do Coité - EBDA,-11.551314,-39.284404,352.72,28.3,66.5,6.6,18.65,48.5,12.7,19.1,0,0,83.9,5.5,Nordeste,RPGA do Rio Itapicuru,553.07
+Candeal - EBDA,-11.80132,-39.117735,252.5,131.5,46,24.5,73,77,5,19,0,4,58,20,Nordeste,RPGA do Rio Paraguaçu,632.5
+Luís Eduardo Magalhães (Fazenda Boiadeiro) - GR-PR-10 ,-12.108951,-45.955267,404.4,341,150.8,,40,0,0,18,0,40,194.5,171.3,Oeste,RPGA do Rio Grande,994.2
+Tanquinho - EBDA,-11.96799,-39.101068,242,72,57.5,31.6,17.5,35.5,45,16.5,3.3,0,67.8,22,Nordeste,RPGA do Rio Paraguaçu,520.9
+Coronel João Sá - EBDA,-10.284624,-37.917698,102.5,26.5,0,0,137,37,50.5,16,0,0,0,0,Nordeste,RPGA do Rio Vaza-Barris,369.5
+Anguera - Embasa,-12.167993,-39.251074,289,108.2,63.3,63.5,41.9,95.4,46.1,15.1,0,9.4,98.5,5,Recôncavo,RPGA do Rio Paraguaçu,731.9
+Abaré - EBDA,-8.71792,-39.117725,451.6,179.6,36.4,123.5,45,98.5,74.2,14.7,10.1,70.6,106.6,362.1,Nordeste,RPGA dos Rios Macururé e Curaçá,1104.2
+Itanhém - EBDA,-17.134752,-40.334459,104.9,105.5,240.5,137.92,93.7,82.1,63.7,14.7,12.7,66.6,126.8,227.2,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",922.33
+Euclides da Cunha - EBDA,-10.501293,-39.017728,262.91,121.8,10,0,85.5,40.9,35,14.6,3,6.6,46.6,11,Nordeste,RPGA do Rio Itapicuru,580.32
+Amélia Rodrigues (Rio Seco) - EBDA,-12.400777,-38.758839,342.8,28,29,33.5,143,202,54,14,,0,,,Recôncavo,RPGA do Recôncavo Norte,846.3
+Cipó - 83192,-11.083333,-38.516667,168.2,140.4,14,25.8,46.3,31.1,37,13.8,8.5,0.7,57.4,0,Nordeste,RPGA do Rio Itapicuru,485.81
+Monte Santo - 83090,-10.4425,-39.331111,267.4,182.1,1.2,9.9,70.5,49.7,32,13,5.4,0,26.2,4.5,Nordeste,RPGA do Rio Itapicuru,631.2
+Capela do Alto Alegre - Embasa,-11.667981,-39.851086,352.2,195.4,79.2,14.6,25,43.6,25.2,12.6,0,3.4,75.4,0,Nordeste,RPGA do Rio Paraguaçu,751.21
+Lençóis - 83242,-12.5575,-41.388889,406.1,80.7,249.4,88.3,41.3,40.9,27.6,12.3,3.2,39.3,298.2,10.2,Chapada Diamantina,RPGA do Rio Paraguaçu,989.1
+Ipirá - PG-CL-02,-12.14986,-39.76454,266,69.75,59.25,9.5,36,79,23.25,12.25,5.25,13.25,81,25.25,Nordeste,RPGA do Rio Paraguaçu,573.5
+Andaraí - Embasa,-12.801332,-41.321128,535.2,106.8,261.4,67.2,70.9,46.1,76.8,12.1,23,70.5,298.1,34.9,Chapada Diamantina,RPGA do Rio Paraguaçu,1270
+Arataca,-15.868067,-39.417762,167.1,128.7,252.7,130.7,113.2,118.3,108.9,11.8,18.7,29.6,203.3,18.7,Sul,RPGA do Rio Pardo,1079.7
+Tucano - EBDA,-10.971302,-38.781056,321,184,5,0,80,44,42,11.5,6.5,0,34,0,Nordeste,RPGA do Rio Itapicuru,694
+Andaraí - EBDA,-12.801332,-41.317795,425.7,88,160.2,39,0,35,0,11,0,0,247,8,Chapada Diamantina,RPGA do Rio Paraguaçu,758.91
+Ribeira do Amparo - EBDA,-11.034638,-38.43438,248.5,177,24,9,57,32,63,11,5,0,57,0,Nordeste,RPGA do Rio Itapicuru,626.5
+Mucuri - EBDA,-18.084773,-39.55111,171,80.2,365.2,93.93,49.71,60.63,38.11,11,2.75,30.8,90.22,258.49,Sul,RPGA do Rio Mucuri,903.33
+Eunápolis - EBDA,-16.368074,-39.567768,286.31,75.34,314.8,123.34,129.21,100.05,172.79,10.9,28,90.85,200.87,72.2,Sul,"RPGA dos Rios dos Frades, Buranhém e Santo Antônio",1331.6
+Marcionílio Souza - PG-CL-03,-13.00021,-40.537783,282.25,60.75,99.25,54.5,9,27.5,11,10.75,0.5,6.75,241,17.75,Chapada Diamantina,RPGA do Rio Paraguaçu,562.25
+Teixeira de Freitas - PJ-CL-01,-17.575555,-39.732777,162.75,195.25,251.25,155,30,70,80.75,10.75,5,32,85.5,269.75,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",992.75
+Teixeira de Freitas - DERBA,-17.5681,-39.234434,121,144.2,190.5,160,31.5,45.5,68.5,10.6,4.2,32,114.3,167.6,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",808.01
+Nova Viçosa - EBDA,-17.884771,-39.38444,192.69,185,373,136.69,43.08,99.67,68.61,10.6,0,12.76,101.52,339.1,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",1122.1
+Araci - EBDA,-11.334644,-38.951062,498,127,32,17,25,75,31,10,0,0,81,5,Nordeste,RPGA do Rio Itapicuru,815
+Monte Santo - EBDA,-10.434623,-39.301068,285.6,85,1,4.5,73,32,33,9,0,0,20,0,Nordeste,RPGA do Rio Itapicuru,523.1
+Cipó - DERBA,-11.167975,-38.517717,203.9,136.2,0,15,28.6,8,49.5,8,6,0,56.1,0,Nordeste,RPGA do Rio Itapicuru,455.21
+Mucugê - EBDA,-13.001335,-41.367798,465.2,150.2,310.8,95,27.5,29.9,21.2,7.5,13.7,0,232.4,10.8,Chapada Diamantina,RPGA do Rio Paraguaçu,1121.01
+Santo Estêvão - Embasa,-12.451332,-39.267741,90.9,,19.1,55.1,57.9,79.1,7.4,7.3,0,25.2,33,2.2,Recôncavo,RPGA do Rio Paraguaçu,342
+Mairi - Embasa,-11.701314,-40.151095,,32.4,28.5,15.3,75.1,53.8,25.7,7,0,14,77.6,5.6,Chapada Diamantina,RPGA do Rio Paraguaçu,251.8
+Cipó - EBDA,-11.101305,-38.517717,245,176,0,30,48.5,28.5,66.5,7,5,0,17,0,Nordeste,RPGA do Rio Itapicuru,606.5
+Irará - EBDA,-12.034659,-38.767726,308,46.5,98,45,50.5,105.5,58.5,7,32,2,150,0,Recôncavo,RPGA do Recôncavo Norte,753
+Riachão do Jacuípe_EMBASA,-11.801317,-39.367741,291.4,104.4,47,17.4,24.1,42.7,17,6.5,4.1,12.7,66.4,6.5,Nordeste,RPGA do Rio Paraguaçu,567.31
+Mundo Novo (Ibiaporã) - PG-CL-01,-12.05379,-40.83722,302.75,61,159.5,39.75,60.5,51.75,30,6.25,18.75,21.5,165,3.25,Chapada Diamantina,RPGA do Rio Paraguaçu,751.75
+Itiruçu - A407,-13.52629,-40.12055,190.4,67.6,159,32.6,90.8,67,67.4,5.8,14.2,37.2,,21,Sudoeste,RPGA do Recôncavo Sul,732
+Macajuba-EMBASA,-12.134654,-40.351101,393.5,15.6,93.1,82.3,53.8,56.2,28.1,5.4,5.8,10.3,137.2,0,Chapada Diamantina,RPGA do Rio Paraguaçu,744.1
+Ipecaetá - Embasa,-12.301329,-39.301074,201.6,114,43.4,48.2,13,148,14.2,5.2,0,24,58.3,0,Recôncavo,RPGA do Rio Paraguaçu,611.61
+Ubaíra - EBDA,-13.268014,-39.667756,271.3,133,103.5,110.9,120.5,106.1,82.5,5,40.5,49.3,107.9,0,Recôncavo,RPGA do Recôncavo Sul,1022.6
+Itiruçu - EBDA,-13.534683,-40.151101,238.5,50,153.5,61,130,69,77.5,5,11,37.5,289.5,47,Sudoeste,RPGA do Rio de Contas,833
+Santa Quitéria - Itaberaba - Embasa,-12.351326,-40.031095,311.9,72.4,37.6,14.4,38.8,41.9,7,4.4,3.4,4,48.8,0,Nordeste,RPGA do Rio Paraguaçu,535.8
+Gavião - Embasa,-11.467977,-39.76775,355.4,96.2,26.8,7.5,16.2,29.4,2.4,4.2,0,0,57.2,0,Nordeste,RPGA do Rio Paraguaçu,538.1
+Mucugê - Embasa,-13.001335,-41.371131,499,96.8,254.4,57,32.7,41.3,14,4.1,14.6,44.3,148.9,11,Chapada Diamantina,RPGA do Rio Paraguaçu,1058.2
+Argoim - Embasa,-12.551332,-39.551083,206.4,153.6,31,19.9,59.5,41.8,38.3,4.1,2,30,56.1,0,Recôncavo,RPGA do Rio Paraguaçu,586.6
+Rafael Jambeiro-EMBASA,-12.484665,-39.401077,172.4,163,16,0,55,60,13,4,3,5.6,71.2,0,Recôncavo,RPGA do Rio Paraguaçu,492
+França - Piritiba - Embasa,-11.551308,-40.584438,225.6,56.2,184.5,11.6,27.4,59.8,19.6,3.9,4.2,1.2,82.4,1.4,Nordeste,RPGA do Rio Paraguaçu,594.01
+Morro do Chapéu - 83184,-11.216667,-41.216667,244.9,64.9,116.9,35.9,25.5,28.8,15.1,3.8,8.7,8.8,127.7,5,Chapada Diamantina,RPGA do Rio Salitre,553.3
+Ituruçu (Jaguaquara) - 83295,-13.527828,-40.119752,195,65.7,156.4,28.5,86.9,59.6,61.9,3.7,11.5,34.2,203,46.1,Sudoeste,RPGA do Recôncavo Sul,703.41
+Jaguaquara - RS-CL-01,-13.573055,-39.940833,218.75,57.75,146,58,88.25,46,62.25,3.5,22.5,52.25,139.25,23.25,Sudoeste,RPGA do Recôncavo Sul,755.25
+Ipirá - Embasa,-12.151323,-39.734419,,1.9,67.2,10.8,33.6,67,18.2,3,1,11.1,61.6,20,Nordeste,RPGA do Rio Paraguaçu,213.8
+Jacobina - 83186,-11.172778,-40.534167,417.7,101.1,66.2,6.7,27.8,26.6,13.2,2.9,7.6,2.1,103.6,11,Nordeste,RPGA do Rio Itapicuru,671.91
+Ipiaú - EBDA,-14.134698,-39.734428,158,178,163,61.3,77.1,81.2,71.1,2.8,13,80.5,231.1,6.9,Sudoeste,RPGA do Rio de Contas,886
+Iaçu - Embasa,-12.768002,-40.201101,,71.1,92.3,17.7,13.9,25.2,15.5,2.5,0,10.1,115.9,0.2,Chapada Diamantina,RPGA do Rio Paraguaçu,248.3
+Santa Inês - EBDA,-13.28468,-39.834426,132,53,59,39,52,43.1,31,2.5,12,31,163,13,Recôncavo,RPGA do Recôncavo Sul,454.6
+Vitória da Conquista - 83344,-14.883333,-40.8,167.6,234.6,394.9,62,22.4,23.6,24.6,2.2,2.4,20.1,204.3,12.3,Sudoeste,RPGA do Rio Pardo,954.4
+Lajedinho-EMBASA,-12.351323,-40.851116,273.2,173.6,181.4,17.6,24,30.2,28.6,2,15,19,156.4,0,Chapada Diamantina,RPGA do Rio Paraguaçu,764.6
+Souto Soares - PG-CL-04,-12.08538,-41.64815,222.25,102.25,97.75,3.25,8.75,11.25,7,1.25,0,15.25,70.25,32.25,Chapada Diamantina,RPGA do Rio Paraguaçu,469
+Queimadas - EBDA,-10.984633,-39.634411,330.4,126.7,3.33,0,11.2,50.9,0,1,0,0,51.7,6.7,Nordeste,RPGA do Rio Itapicuru,523.53
+Jaguaquara - EBDA,-13.534684,-39.984431,286.5,68.5,174,69.5,65,39.5,40.5,1,14,29,205.5,26,Sudoeste,RPGA do Recôncavo Sul,787.5
+Piatã - CO-CL-04,-13.164166,-41.770833,259.5,171.5,194.9,60.85,69,45,50,0.5,4,69.75,217.25,52.75,Chapada Diamantina,RPGA do Rio de Contas,925
+Santo Antônio de Jesus - DERBA,-12.96801,-39.267744,243,,152,164,192,217,86.8,0.3,5.1,55,50,27,Recôncavo,RPGA do Recôncavo Sul,1115.2
+Jequié - CO-CL-03,-13.873055,-40.071944,160.5,50.75,183,23.5,33.25,14.25,21.75,0.25,6.5,6.75,191.75,3.5,Sudoeste,RPGA do Rio de Contas,500.5
+Itaberaba - A408,-12.524062,-40.299714,295.6,52.4,,34.4,38.6,42.6,49.2,0.2,,33.8,,,Chapada Diamantina,RPGA do Rio Paraguaçu,546.81
+Licínio de Almeida - EBDA,-14.634693,-42.567837,342.6,0,209.4,27.6,1,2.3,5.2,0.2,0.8,101.2,137.5,149.9,São Francisco,RPGA do Rio Verde Grande,690.31
+Fazenda Piabanha,-14.59737,-42.38433,348,,209.7,27.6,1,2.3,5.2,0.2,0.8,101.2,137.5,149.9,São Francisco,RPGA do Rio de Contas,696.01
+Itaetê - Embasa,-12.984669,-40.967788,297.2,60.1,112.5,37.6,18.8,11.9,20,0.1,0,15.1,181.8,11.3,Chapada Diamantina,RPGA do Rio Paraguaçu,573.31
+Santa Rita de Cássia - 83076,-11.016667,-44.516667,,146.9,323,1.3,0.1,0.3,0,0.1,,,253.3,86.4,São Francisco,RPGA do Rio Grande,471.71
+Boa Vista do Tupim - EBDA,-12.651332,-40.60111,308.3,58,83.5,21.2,15.8,5.6,0,0,0,0,133.8,0,Chapada Diamantina,RPGA do Rio Paraguaçu,492.41
+Iaçu - EBDA,-12.768002,-40.217768,351.7,69.8,85.4,10,4.4,0,11.2,0,0,0,109.7,0,Chapada Diamantina,RPGA do Rio Paraguaçu,532.5
+Itaberaba - EBDA,-12.534663,-40.301101,305.2,70,129,62.5,33,85,43,0,0,8.8,153.7,19.4,Chapada Diamantina,RPGA do Rio Paraguaçu,736.5
+Itaetê - EBDA,-12.984669,-40.984455,348.04,105.2,185.2,0,0,14.7,0,0,0,0,209.7,20,Chapada Diamantina,RPGA do Rio Paraguaçu,653.15
+Marcionílio Souza - EBDA,-13.001338,-40.534443,261.9,46,91,56.8,1.2,22.7,0,0,0,0,240.6,10.4,Chapada Diamantina,RPGA do Rio Paraguaçu,479.6
+Ruy Barbosa - EBDA,-12.284657,-40.501107,552.6,57,99,54,47,50,26,0,7,17,289,7,Chapada Diamantina,RPGA do Rio Paraguaçu,909.6
+Utinga - EBDA,-12.08465,-41.101122,387,161.5,82,0,5,16,10,0,3,0,128.5,14,Chapada Diamantina,RPGA do Rio Paraguaçu,664.5
+Barra da Estiva - EBDA,-13.63468,-41.334467,306,93,241,50,0,0,0,0,0,0,145,20,Chapada Diamantina,RPGA do Rio de Contas,690
+Baixa Grande - EBDA,-11.951317,-40.167762,618.15,45,100.5,38,60.5,99.5,34,0,0,15,153.5,5,Chapada Diamantina,RPGA do Rio Paraguaçu,1010.65
+Mairi - EBDA,-11.717981,-40.151095,532,36.5,75.5,10,53,27.5,27.5,0,0,0,93.5,0,Chapada Diamantina,RPGA do Rio Paraguaçu,762
+Morro do Chapéu - EBDA,-11.551305,-41.151119,279.2,75.5,107.5,28.5,38,43,21,0,0,17.5,252,0,Chapada Diamantina,RPGA do Rio Paraguaçu,610.2
+Mundo Novo - EBDA,-11.851314,-40.46777,553,20,80,0,0,0,37.5,0,0,0,205,0,Chapada Diamantina,RPGA do Rio Paraguaçu,690.5
+Piritiba - EBDA,-11.751314,-40.551104,602,45,50.5,0,0,0,0,0,0,0,171.2,20,Chapada Diamantina,RPGA do Rio Paraguaçu,697.5
+Barra do Mendes - EBDA,-11.817975,-42.06781,417.5,80,124,10,0,0,0,0,0,81,127.5,0,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,712.5
+Cafarnaum - EBDA,-11.684641,-41.484462,294.2,94,212.5,0,0,0,0,0,0,29,119.5,6,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,629.7
+Canarana - EBDA,-11.684641,-41.751137,303,141.1,76.7,4,0,0,0,0,0,37,120.7,61,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,561.81
+Iraquara - EBDA,-12.234651,-41.617801,311.6,125,69,41.5,0,0,0,0,0,8.5,96.5,5.8,Chapada Diamantina,RPGA do Rio Paraguaçu,555.6
+Piatã - EBDA,-13.201338,-41.751143,294,123.1,162.8,73.5,91,66.5,46.5,0,0,38,227.5,58,Chapada Diamantina,RPGA do Rio de Contas,895.41
+Seabra - EBDA,-12.417987,-41.767806,283.2,95,143,0,0,0,0,0,0,30,80,67,Chapada Diamantina,RPGA do Rio Paraguaçu,551.2
+Livramento do Brumado - EBDA,-13.651344,-41.834479,286.3,114.2,208.2,12.8,0,0,0,0,0,19.5,176.8,38,Chapada Diamantina,RPGA do Rio de Contas,641
+Itaberaba - 83244,-12.516667,-40.283333,317.1,49.6,86.9,27.5,35.2,33.7,44,0,1.8,30.5,106.9,24,Chapada Diamantina,RPGA do Rio Paraguaçu,626.31
+Seabra - DERBA,-12.417987,-41.767806,,,133.2,2,9,9.1,0,0,0,21.6,146,0,Chapada Diamantina,RPGA do Rio Paraguaçu,174.9
+Morro do Chapéu - Embasa,-11.534639,-41.134452,196.6,70.8,160,10.6,2,4.4,5.6,0,0,0,121.6,0,Chapada Diamantina,RPGA do Rio Paraguaçu,450
+Marcionílio Souza-EMBASA,-12.984671,-40.534443,306.6,57.8,114,32.6,9.6,22.2,3.4,0,0,0,238.6,12.6,Chapada Diamantina,RPGA do Rio Paraguaçu,546.2
+Itaberaba - EMBASA,-12.531329,-40.301101,273.1,49.2,83.8,11.5,12.3,34.5,31.2,0,3.8,7.4,114.3,27.1,Chapada Diamantina,RPGA do Rio Paraguaçu,506.8
+Palmeiras - EBDA,-12.46799,-41.617801,309.6,149,45,66,0,0,0,0,0,0,158,65,Chapada Diamantina,RPGA do Rio Paraguaçu,569.6
+Ibiquera - Embasa,-12.634662,-40.934452,294.7,51,92,0,0,0.6,0,0,0,0,276.7,0,Chapada Diamantina,RPGA do Rio Paraguaçu,438.3
+Chorrochó - EBDA,-8.984593,-39.101059,279,188.5,16.9,0,42,0,0,0,0,0,0,0,Nordeste,RPGA dos Rios Macururé e Curaçá,526.4
+Rodelas - EBDA,-8.83459,-38.751049,259.7,56.5,0,0,23,0,0,0,0,0,0,,Nordeste,RPGA dos Rios Macururé e Curaçá,339.2
+Macururé - EBDA,-9.16793,-39.051056,333.4,35.9,11.5,0,23.1,0,0,0,0,0,0,,Nordeste,RPGA dos Rios Macururé e Curaçá,403.9
+Curaçá - EBDA,-8.98459,-39.90108,475,114.5,72.6,22.6,0,10,0,0,0,0,0,0,Nordeste,RPGA dos Rios Macururé e Curaçá,694.7
+Jacobina - EBDA,-11.167968,-40.501101,487,78,36,0,17,18,0,0,0,0,171,4,Nordeste,RPGA do Rio Itapicuru,636
+Miguel Calmon - EBDA,-11.417972,-40.584438,381.9,51,166.6,0,17,30.5,0,0,0,10.5,174,0,Nordeste,RPGA do Rio Itapicuru,657.5
+Saúde - EBDA,-10.934629,-40.417765,415.08,79,42.4,35.3,56.4,38.5,10.3,0,15.8,4,77.3,5.6,Nordeste,RPGA do Rio Itapicuru,696.78
+Cansanção - EBDA,-10.66796,-39.501074,268.7,143.7,2.1,0,32.6,12.3,1.7,0,0,0,9,10.2,Nordeste,RPGA do Rio Itapicuru,461.1
+Uauá - EBDA,-9.834609,-39.484404,271,70.6,50.6,131.6,32.6,0,7.2,0,0,0,22.5,0,Nordeste,RPGA do Rio Vaza-Barris,563.61
+Filadélfia - EBDA,-10.734626,-40.134425,,128,135,27,142,3.5,25,0,0,0,100,0,Nordeste,RPGA do Rio Itapicuru,460.5
+Itiúba - EBDA,-10.684626,-39.934419,525.5,125.5,0,0,0,5,55.5,0,0,0,0,0,Nordeste,RPGA do Rio Itapicuru,711.5
+Andorinha - EBDA,-10.33462,-39.834414,220,183,3,0,0,10,0,0,0,0,0,0,Nordeste,RPGA do Rio Itapicuru,416
+Ponto Novo - EBDA,-10.851296,-40.051089,342,77,0,0,0,20,0,0,0,0,25,0,Nordeste,RPGA do Rio Itapicuru,439
+Senhor do Bonfim - EBDA,-10.451287,-40.184425,323.9,145.4,39.9,6,36.3,15,0,0,0,0,75,0,Nordeste,RPGA do Rio Itapicuru,566.5
+Santaluz - EBDA,-11.251308,-39.367738,212.1,101,0,0,40.2,19,12.5,0,0,0,0,0,Nordeste,RPGA do Rio Itapicuru,384.8
+Casa Nova - EBDA,-9.08459,-40.617764,341.8,199,42.5,2.3,20.5,0,0,0,0,0.2,42.5,5,Norte,RPGA do Lago de Sobradinho,606.3
+Remanso - EBDA,-9.601263,-42.08447,502.6,126.8,64.8,0,0,0,0,0,0,32.2,67.8,0,Norte,RPGA do Lago de Sobradinho,726.4
+Sento Sé - EBDA,-9.734599,-41.851131,501,126.4,90.4,0,0,0,0,0,0,32,59,27.2,Norte,RPGA do Lago de Sobradinho,749.8
+Juazeiro -EBDA,-9.41793,-40.501095,409.4,152.6,114.4,0,0,0,0,0,0,3.6,10,0.4,Norte,RPGA dos Rios Macururé e Curaçá,680
+Sobradinho - EBDA,-9.334594,-40.81777,448.4,98.6,42.3,0,2.7,0,0,0,0,1.6,0,0,Norte,RPGA do Lago de Sobradinho,593.6
+Taquarendi - EBDA,-10.834626,-40.701104,445,169,18,0,0,0,0,0,0,0,48,0,Norte,RPGA do Rio Salitre,632
+Central - EBDA,-11.151293,-42.11781,378.5,132.5,119.5,0,0,0,0,0,0,139,92,44,Norte,RPGA dos Rios Verde e Jacaré,769.5
+Ibipeba - EBDA,-11.634638,-42.034476,386.9,100.4,42.9,0,0,0,0,0,0,22.6,74.8,5.9,Norte,RPGA dos Rios Verde e Jacaré,552.8
+Ibititá - EBDA,-11.523108,-41.976085,338.8,110.6,152.9,0,0,0,0,0,0,28.9,94.3,6.3,Norte,RPGA dos Rios Verde e Jacaré,631.2
+Irecê - EBDA,-11.317966,-41.867804,350.4,194,135.7,51.1,3,0,0,0,0,21,190.4,0,Norte,RPGA dos Rios Verde e Jacaré,755.2
+João Dourado - EBDA,-11.334633,-41.651131,441,102,67.5,0,0,0,0,0,0,4,166.5,5,Norte,RPGA dos Rios Verde e Jacaré,614.5
+Jussara - EBDA,-11.051296,-40.96778,450.5,174,100,0,0,0,0,0,0,37.5,186,0,Norte,RPGA do Rio Salitre,762
+Lapão - EBDA,-11.367966,-41.817803,329.4,41,84.7,68,0,0,0,0,0,0,236.9,10,Norte,RPGA dos Rios Verde e Jacaré,523.1
+Presidente Dutra - EBDA,-11.284632,-41.651131,256.6,101.8,128.4,5.6,14.1,0,0,0,0,34,129.2,11.3,Norte,RPGA dos Rios Verde e Jacaré,540.51
+Uibaí - EBDA,-11.334632,-42.134477,426.8,112.9,208.3,5.2,9.6,0,0,0,0,96.4,111.8,43.6,Norte,RPGA dos Rios Verde e Jacaré,859.2
+Irecê - 83182,-11.3,-41.866667,,165.9,165.6,18.7,3.9,0,0,0,0,20.3,156.1,0.2,Norte,RPGA dos Rios Verde e Jacaré,374.4
+Remanso - 82979,-9.633333,-42.1,,159.3,70.6,0,0,1.6,0.4,0,0,40.2,71,29.9,Norte,RPGA do Lago de Sobradinho,272.1
+Irecê - VJ-CL-01,-11.289166,-41.894166,347,72.5,92.75,5.25,1.75,0,0,0,0,9.25,143,0.75,Norte,RPGA dos Rios Verde e Jacaré,528.5
+América Dourada - EBDA,-11.384635,-41.584464,193,129,90,0,18,0,0,0,0,6,116,18.5,Norte,RPGA dos Rios Verde e Jacaré,436
+São Gabriel - EBDA,-11.134629,-41.867803,542.1,133.4,113.9,6.7,0,0,0,0,0,4,115.9,0,Norte,RPGA dos Rios Verde e Jacaré,800.1
+Jaguarari - EBDA,-10.251284,-40.184423,253,128,0,0,0,0,0,0,0,0,0,0,Norte,RPGA do Rio Itapicuru,381
+Fazenda Vila Verde,-12.032839,-46.054434,254,291,267,131,13.5,24,0,0,22,105.7,245.2,133.2,Oeste,RPGA do Rio Grande,1108.2
+Luiz Eduardo Magalhães (Fazenda Poletto) - GR-PR-11,-12.07145,-45.896097,402.3,322,254.7,,,3.2,0,0,0,45.1,199.6,136.6,Oeste,RPGA do Rio Grande,1027.3
+Barreiras (Fazenda Novo Horizonte) - GR-PR-13,-12.064787,-45.560529,327.5,277.6,289.2,26.5,0,0,0,0,2.5,31.8,192,131.2,Oeste,RPGA do Rio Grande,955.1
+Barreiras - (Fazenda Paineiras) - GR-PR-14,-12.06062,-45.594699,,,,,,,,0,8.2,77.3,73.6,186.9,Oeste,RPGA do Rio Grande,85.5
+Barreiras (Fazenda Dona Izeta) - GR-PR-15,-12.073399,-45.490807,168.5,286.6,247.1,52.7,0,0,,0,6.3,97,211,124.9,Oeste,RPGA do Rio Grande,858.2
+Fazenda São Roque,-11.95895,-45.457748,,,,,,,,0,0,99.5,,106.2,Oeste,RPGA do Rio Grande,99.5
+Barreiras (Limoeiro) - GR-PR-18,-12.293403,-45.544421,,,,,,,,0,0.3,106.6,,,Oeste,RPGA do Rio Grande,106.9
+Fazenda Catarinense,-13.286201,-46.028331,,,,,,,,0,14.7,,,,Oeste,RPGA do Rio Grande,14.7
+Fazenda Morete,-13.222316,-45.154969,,,,,,,,0,0,,211.8,,Oeste,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",0
+Barreiras (INMET) - EBDA,-12.134635,-44.984551,377.9,193.5,211.3,27.4,0,0,0,0,2,93.7,122.3,141.8,Oeste,RPGA do Rio Grande,905.81
+Arrojolândia,-13.741772,-45.466093,,,,,,,,0,0,,,,Oeste,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",0
+Correntina (Rosário) - CT-PR-03,-13.940105,-46.188064,,,,,,,2.6,0,0,7.7,,,Oeste,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",10.3
+Formosa do Rio Preto (SEDE) - EBDA,-11.051281,-45.201218,338,239,184,0,6,0,0,0,0,6.6,120.4,65,Oeste,RPGA do Rio Grande,773.6
+Projeto Alto Formoso,-14.260954,-45.27887,,,,,,,,0,0,58.4,,,Oeste,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",58.4
+Ponte do Fortunato,-14.642348,-45.503045,,,,,,,0,0,0,0,,,Oeste,RPGA do Rio Carinhanha,0
+Cocos (Ponte do Itaguari) - CA-PR-02,-14.234011,-44.626902,,,,,,,,0,0,102.9,63.7,,Oeste,RPGA do Rio Carinhanha,102.9
+Correntina - 83286,-13.332222,-44.617222,492.3,126.1,297.5,49.3,0,0,,0,,86.3,74.4,68.6,Oeste,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",1051.5
+Barreiras (Form. Rio Preto) - 46550000,-11.154444,-45.009166,366.1,219.1,211.2,17.8,0,0,0,0,3.6,84,121.2,153.9,Oeste,RPGA do Rio Grande,901.81
+Formosa do Rio Preto (COACERAL)  - GR-CL-02,-10.561944,-45.693333,497.75,312,229.5,4.75,0.25,0,0.25,0,0,0.75,0.75,133,Oeste,RPGA do Rio Grande,1045.25
+Barreiras - EBDA,-12.084632,-45.6679,315.9,300.9,245.9,72.29,0,0,0,0,0,72,173.4,128,Oeste,RPGA do Rio Grande,1006.99
+São Desidério - R. Velha - GR-CL-01,-12.898055,-46.157222,435.75,223.25,311,107,0.25,0,0,0,0,2,1,121.5,Oeste,RPGA do Rio Grande,1079.25
+Formosa do Rio Preto (Fazenda Mingore) - GR-PR-03,-11.043367,-46.296104,,,,,,,,0,,,,,Oeste,RPGA do Rio Grande,0
+Restaurante Anel da Soja,-11.598938,-46.005263,,,,,,,0,0,0,200.7,,,Oeste,RPGA do Rio Grande,200.7
+Fazenda Santa Rita de Cássia,-11.625053,-45.645252,,,,,,,0,0,0.2,23.9,,,Oeste,RPGA do Rio Grande,24.1
+Amargosa - EBDA,-13.034677,-39.601086,304.5,182,171.5,147.5,141,144.5,54.5,0,28.5,37,0,0,Recôncavo,RPGA do Recôncavo Sul,1211
+Santo Amaro - EBDA,-12.551335,-38.701059,476,64,25,184,128,272,133,0,13,84.6,155,10,Recôncavo,RPGA do Recôncavo Norte,1379.6
+Castro Alves - EBDA,-12.751338,-39.434413,259,191,31,20,73.5,86.5,53,0,0,5,121,0,Recôncavo,RPGA do Rio Paraguaçu,719
+Vitória da Conquista - DERBA,-14.951374,-40.884461,180.5,138,423.5,72.5,12.5,12,13.5,0,0,14.5,72,26.6,Sudoeste,RPGA do Rio Pardo,867
+Maracás - EBDA,-13.43468,-40.434443,217,200,224,82,67,42,24,0,10,0,245,31,Sudoeste,RPGA do Rio de Contas,866
+Tanhaçu - EBDA,-14.018022,-41.234467,61.5,69,189.3,0,0,0,0,0,0,20,155,0,Sudoeste,RPGA do Rio de Contas,339.8
+Anagé - EBDA,-14.618034,-41.134467,207.75,102,282.75,29.75,3,5.25,5.25,0,0,4.25,83.25,19.75,Sudoeste,RPGA do Rio de Contas,640
+Cândido Sales - EBDA,-15.501383,-41.234473,163.1,120.3,157.5,0,0,0,0,0,0,0,27,63.1,Sudoeste,RPGA do Rio Pardo,440.9
+Ibicuí - EBDA,-14.83471,-39.984437,208.4,133.5,266,0,125.6,23,67.5,0,0,12,97.6,18.5,Sudoeste,RPGA do Rio de Contas,836
+Itapetinga - EBDA,-15.251383,-40.251113,56.2,150.9,21.8,32.1,21.1,0,0,0,0,0,230.6,15.6,Sudoeste,RPGA do Rio Pardo,282.11
+Itarantim - EBDA,-15.651392,-40.067777,93,210,306,51,35,25,165,0,0,35,226.6,20,Sudoeste,RPGA do Rio Pardo,920
+Macarani - EBDA,-15.568056,-40.417786,90,150,0,53,31,0,0,0,0,8,0,36,Sudoeste,RPGA do Rio Pardo,332
+Vitória da Conquista - EBDA,-14.851374,-40.834461,51.5,54.8,61.2,0,0,0,0,0,0,0,27.5,3.9,Sudoeste,RPGA do Rio Pardo,167.5
+Condeúba - EBDA,-14.884701,-41.984489,285,119.6,293.7,9,0,0,0,0,0,76.3,150.8,215.5,Sudoeste,RPGA do Rio de Contas,783.6
+Brumado - EBDA,-14.201356,-41.651143,188.54,58,187.8,0,0,0,0,0,0,51.5,202.3,14.6,Sudoeste,RPGA do Rio de Contas,485.85
+Ituaçu - 83292,-13.812778,-41.3,161.3,69.7,178.7,26.5,16.6,15,4.7,0,1.2,19.7,143.1,38.8,Sudoeste,RPGA do Rio de Contas,493.4
+Jequié - EBDA,-13.851356,-40.084435,192,58,243,13,67,21,32,0,11,12,151,4,Sudoeste,RPGA do Rio de Contas,649
+Brumado - DERBA,-14.201356,-41.651143,238.2,44.4,216.6,0,0,10.3,5,0,0,9,235.7,82.2,Sudoeste,RPGA do Rio de Contas,523.5
+Anagé - CO-CL-01,-14.618055,-41.149722,207.75,102,282.75,29.75,3,5.25,5.25,0,0,4.25,83.25,19.75,Sudoeste,RPGA do Rio de Contas,640
+Brumado - CO-CL-02,-14.207222,-41.778055,164.75,53.5,137.25,0.75,4.75,12.25,4.25,0,0.25,9.5,213,25.25,Sudoeste,RPGA do Rio de Contas,387.25
+Barra do Choça - EBDA,-14.868041,-40.651122,33.2,118.8,248.1,38.1,0,0,0,0,0,0,0,14.2,Sudoeste,RPGA do Rio Pardo,438.21
+Potiraguá - EBDA,-15.601392,-39.867771,259,127,229.5,0,0,62,51,0,0,0,156,8,Sul,RPGA do Rio Pardo,728.5
+Teixeira de Freitas - EBDA,-17.534762,-39.734446,128.86,130.15,156.2,122.66,15.4,48.85,49.8,0,6.16,13.75,77.2,143.2,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",671.83
+Medeiros Neto - EBDA,-17.368089,-40.234458,199,59,159,138,18,84,121,0,12,10,48.5,162,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",800
+Angical (SEDE) - EBDA,-12.001302,-44.684543,455.5,220.5,146,61.5,24,0,0,0,0,25,162,51.5,São Francisco,RPGA do Rio Grande,932.5
+Baianópolis (SEDE) - EBDA,-12.301308,-44.53454,581.5,99,456.5,35,0,0,0,0,0,28.8,0,0,São Francisco,RPGA do Rio Grande,1200.8
+Cristópolis (SEDE) - EBDA,-12.217972,-44.434539,400,152,317,23,0,0,0,0,0,118.8,101.6,149,São Francisco,RPGA do Rio Grande,1010.8
+Santa Rita de Cássia (SEDE),-11.001281,-44.517867,206,152.4,299.2,0,0,0,0,0,0,2,312.5,105,São Francisco,RPGA do Rio Grande,659.6
+Wanderley (SEDE) - EBDA,-12.117972,-43.884524,485.2,81.3,207.3,5.1,0,0,0,0,0,71.8,190.4,98.1,São Francisco,RPGA do Rio Grande,850.7
+Bom Jesus da Lapa - EBDA,-13.251329,-43.417851,360,163.3,154.3,0,0,0,0,0,0,33.9,187.8,118.4,São Francisco,RPGA do Rio Carnaíba de Dentro,711.5
+Carinhanha - EBDA,-14.301347,-43.767864,174.03,230.59,136.54,23.31,2.22,0,0,0,0,40.99,41.67,131.16,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",607.68
+Ibotirama - EBDA,-12.184644,-43.21784,307.4,77.2,139.9,19.2,0,0,0,0,0,17.3,174.8,67.5,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,561
+Paratinga - EBDA,-12.684653,-43.184509,430.2,129.8,230.8,0,0,0,0,0,0,20,199.6,71.6,São Francisco,RPGA do Rio Carnaíba de Dentro,810.8
+Riacho de Santana - EBDA,-13.601338,-42.934507,342,178.6,246.1,77.7,0,0,0,0,0,97.7,155.1,106.5,São Francisco,RPGA do Rio Carnaíba de Dentro,942.11
+Serra do Ramalho - EBDA,-13.618002,-43.567857,486.5,188.5,202.5,0,0,0,0,0,0,17.5,124.5,125,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",895
+Santa Maria da Vitória - CT-PR-07,-13.384662,-44.184537,461.41,193.68,318.58,27.18,0,0,0,0,0,88.35,195.42,62.19,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",1089.2
+Coribe - EBDA,-13.834669,-44.451212,346.87,180.71,251.04,34.56,0,0,0,0,0,52.69,61.5,86.09,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",865.88
+Santana - EBDA,-12.984656,-44.0512,388.03,160.93,283.44,13.6,0,0,0,0,0,134.7,148.1,156.9,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",980.7
+Barra - EBDA,-11.084623,-43.151167,288.9,124.2,118,22.7,0,0,0,0,0,27,35.2,28.1,São Francisco,RPGA do Rio Grande,580.8
+Gentio do Ouro - EBDA,-11.417965,-42.501152,299.6,145.6,51.6,15.3,0,0,0,0,0,10.8,101.5,17,São Francisco,RPGA dos Rios Verde e Jacaré,522.9
+Xique-Xique - EBDA,-10.817951,-42.717822,426.1,108.6,103.2,0,0,0,0,0,0,19.8,23.1,19.8,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,657.7
+Brotas de Macaúbas - EBDA,-12.001308,-42.617825,319.7,238.9,145.8,38.5,0,0,0,0,0,0,168,58.6,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,742.91
+Oliveira dos Brejinhos - EBDA,-12.301314,-42.8845,336,48.3,190.8,0,0,0,0,0,0,0,112.1,51.3,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,575.1
+Barra - 83179,-11.083333,-43.166667,309.4,131.3,139,23.3,0,0,0,0,0,27.5,35.2,30.4,São Francisco,RPGA do Rio Grande,630.5
+Caetité - EBDA,-14.068017,-42.484498,376,170.1,257.5,5,0,11,0,0,0,103,16,108.5,São Francisco,RPGA do Rio de Contas,922.6
+Bom Jesus da Lapa - 83288,-13.251389,-43.405278,369.4,158,126.9,4.2,0,0,0,0,0,45.1,159.5,174,São Francisco,RPGA do Rio Carnaíba de Dentro,703.6
+Caetité - 83339,-14.066667,-42.483333,343.2,108.3,253.1,8.2,3.6,13.9,4.4,0,0.8,80.3,202.2,86.1,São Francisco,RPGA do Rio de Contas,815.8
+Urandi - EBDA,-14.768029,-42.651173,285,224,348,10,10,0,0,0,0,156.8,179,168.5,São Francisco,RPGA do Rio Verde Grande,1033.8
+Paramirim - EBDA,-13.434672,-42.234489,444,102,206,37,0,0,0,0,0,72,245,28,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,861
+Guanambí - EBDA,-14.218017,-42.76784,323,130,256,0,0,0,0,0,0,64,219.3,61.2,São Francisco,RPGA do Rio Carnaíba de Dentro,773
+Carinhanha - 83408,-14.283333,-43.766667,199.4,221.9,146.6,48.4,0.2,0,0,0,0,70.3,31.7,130.1,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",686.8
+Macaúbas - EBDA,-13.017996,-42.684498,507,228.5,148.5,0,0,0,7,0,0,28,237,166,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,919
+Palmas do Monte Alto - EBDA,-14.268017,-43.167849,311.3,101,149.6,23,0,0,0,0,0,37.4,192,99.4,São Francisco,RPGA do Rio Carnaíba de Dentro,622.3
+Caetité - CD-CL-01,-13.96659,-42.60482,395.75,60,228.75,19.75,0.25,1.75,0,0,0,28.25,228.75,202.5,São Francisco,RPGA do Rio Carnaíba de Dentro,734.5
+Santa Maria da Vitória - DERBA,-13.381329,-44.181203,410.7,95.5,287.1,20,0,0,0,0,0,42.3,184.1,94.9,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",855.6
+Sítio do Mato - EBDA,-13.167995,-43.501185,329,101.7,199.6,0,0,0,0,0,0,30,193,72.3,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",660.3
+Matina - EBDA,-13.918012,-42.834506,333.9,142.4,139.3,0,0,0,0,0,0,18,213.8,76.7,São Francisco,RPGA do Rio Carnaíba de Dentro,633.6
+Igaporã - EBDA,-13.701341,-42.75117,457,187.5,245,12,0,0,0,0,0,57,194.5,165,São Francisco,RPGA do Rio Carnaíba de Dentro,958.5
+Serra Dourada - EBDA - EBDA,-12.751317,-43.951194,397.92,107.59,210.87,0,0,0,0,0,0,42,151.98,95.18,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",758.38
+Iaçu (João Amaro) - PG-PR-16,-12.800391,-40.363139,350.5,,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,350.5
+Ruy Barbosa - PG-PR-18,-12.285653,-40.513698,440.75,41.5,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,482.25
+Piatã (Fazenda Cruz) - PG-PR-20,-12.90705,-41.86708,351,,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,351
+Iraquara (Afrânio Peixoto) - PG-PR-21,-12.260093,-41.445952,51.25,,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,51.25
+Wagner - PG-PR-22,-12.289538,-41.161774,206.25,,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,206.25
+Iramaia - PG-PR-25,-13.290122,-40.962607,337.25,,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,337.25
+Mucugê (Cascavel) - PG-PR-27,-13.285954,-41.287619,208.25,,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,208.25
+Mulungu do Morro,-11.980363,-41.619012,,67,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,67
+Barro Alto,-11.769188,-41.909464,209.5,90.5,,,,,,,,,,,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,300
+Canarana,-11.69541,-41.78921,394.75,102.5,,,,,,,,,,,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,497.25
+Barra dos Mendes,-11.805077,-42.05708,180.25,23.5,,,,,,,,,,,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,203.75
+Olho D'Água do Francisco,-12.307034,-42.079028,284.5,,,,,,,,,,,,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,284.5
+Cafarnaum,-11.676688,-41.470143,,95.25,,,10,,,,,,,,Chapada Diamantina,RPGA dos Rios Verde e Jacaré,105.25
+Iraquara - PG-PR-02,-12.255093,-41.61679,309.5,127.75,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,437.25
+Baixa Grande - PG-PR-08,-11.908701,-40.183683,461.25,36,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,497.25
+Morro do Chapéu (Ventura) - PG-PR-10,-11.650911,-40.951765,193.5,28.75,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,222.25
+Bonito - PG-PR-11,-11.98993,-41.25429,246.5,,,,,,,,,,,,Chapada Diamantina,RPGA do Rio Paraguaçu,246.5
+Paulo Afonso - 82986,-9.379325,-38.227424,227.5,40,70.4,0.2,121.7,49.8,18.2,,7.1,0,10.2,4,Nordeste,RPGA dos Rios Macururé e Curaçá,534.9
+Caém - EBDA,-11.091855,-40.436378,431,22,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,453
+Lamarão - EBDA,-11.784653,-38.867728,253,,,,,,,,,,,,Nordeste,RPGA do Recôncavo Norte,253
+Jacobina - DERBA,-11.184635,-40.534435,339.4,70.3,122.9,1.7,29.5,37.1,,,,,,1,Nordeste,RPGA do Rio Itapicuru,600.91
+Valente - PG-PR-04,-11.40119,-39.458099,305.25,24.75,,,,,,,,,,,Nordeste,RPGA do Rio Paraguaçu,330
+Pintadas - PG-PR-05,-11.837311,-39.969786,397.5,81.25,,,,,,,,,,,Nordeste,RPGA do Rio Paraguaçu,478.75
+Pé de Serra - PG-PR-06,-11.833423,-39.623663,348.25,205.25,,,,,,,,,,,Nordeste,RPGA do Rio Paraguaçu,553.5
+Jacobina (Itapeipu) - IT-PR-34,-11.315629,-40.356742,364.75,,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,364.75
+Caém - IT-PR-35,-11.093399,-40.437579,430.5,,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,430.5
+Jacobina (Tombador Araújo) - IT-PR-36,-11.168677,-40.670642,263.25,,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,263.25
+Senhor do Bonfim (Carrapichel) - IT-PR-37,-10.388101,-40.220067,135.25,,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,135.25
+Conceição do Coité - IT-PR-14,-11.526752,-39.313095,398.5,79.25,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,477.75
+Queimadas (Riacho da Onça) - IT-PR-15,-11.24424,-39.790055,386.25,106,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,492.25
+Queimadas (Povoado Rio do Peixe) - IT-PR-16,-11.097292,-39.524491,214.75,160.5,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,375.25
+Santaluz - IT-PR-17,-11.24831,-39.37563,205.5,89.75,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,295.25
+Cansanção - IT-PR-20,-10.702836,-39.543932,237.75,,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,237.75
+Euclides da Cunha - IT-PR-21,-10.551446,-38.995579,7.5,4,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,11.5
+Nordestina - IT-PR-22,-10.826728,-39.437543,214,179.25,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,393.25
+Cansanção (Açude Monteiro) - IT-PR-23,-10.77645,-39.559491,233.25,122.75,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,356
+Monte Santo (Pedra Vermelha) - IT-PR-24,-10.454497,-39.559488,179,,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,179
+Quijingue - IT-PR-25,-10.783951,-39.20809,222.25,119,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,341.25
+Olindina (Umbuzeiro) - IT-PR-32,-11.454252,-38.455844,371.25,131.5,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,502.75
+São Domingos - EBDA,-11.484644,-39.517744,387.5,42.5,23,,,,,,,,,,Nordeste,RPGA do Rio Paraguaçu,453
+Retirolândia - EBDA,-11.501311,-39.434408,375,38,,,,,,,,,,,Nordeste,RPGA do Rio Paraguaçu,413
+Ribeira do Pombal (Curral Falso) - IT-PR-01,-10.697843,-38.5714,199.5,121.5,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,321
+Euclides da Cunha (Aribicé) - IT-PR-02,-10.557835,-38.793352,166,150.25,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,316.25
+Tucano (Maria Preta) - IT-PR-03,-10.835065,-38.935857,116,104,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,220
+Ribeira do Pombal - IT-PR-04,-10.823399,-38.545844,42.75,173.25,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,216
+Quijingue (BR 116 E. Cunha / Tucano) - IT-PR-05,-10.7105,-38.9227,263,116.75,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,379.75
+Euclides da Cunha (Fazenda Santo Antônio) - IT-PR-06,-10.405331,-39.045582,302.5,156.75,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,459.25
+Crisópolis - IT-PR-08,-11.510923,-38.120832,356.5,45,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,401.5
+Araci (Fazenda Laranjeiras III) - IT-PR-09,-11.334248,-38.968638,372.75,,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,372.75
+Nova Soure (Estação Experimental) - IT-PR-10,-11.3083,-38.5361,326.25,140.75,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,467
+Itapicuru - IT-PR-12,-11.321193,-38.225003,294.5,41,,,,,,,,,,,Nordeste,RPGA do Rio Itapicuru,335.5
+Caldeirão Grande - EBDA,-11.017965,-40.301095,373,101.5,12,0,0,0,,,,,,,Nordeste,RPGA do Rio Itapicuru,486.5
+Itaguaçu da Bahia (Várzea Grande) - VJ-PR-04,-10.908939,-42.516536,275.5,157.5,,,,,,,,,,,Norte,RPGA dos Rios Verde e Jacaré,433
+Ibitibá,-11.551736,-41.968187,364,74.5,,,,,,,,,,,Norte,RPGA dos Rios Verde e Jacaré,438.5
+Jussara - Arrecife,-11.065335,-41.974853,,111,,,,,,,,,,,Norte,RPGA dos Rios Verde e Jacaré,111
+Alto da Boa Vista,-11.457566,-42.31431,356.25,,,,,,,,,,,,Norte,RPGA dos Rios Verde e Jacaré,356.25
+Ibipeba,-11.673962,-42.010413,125.75,99.25,,,,,,,,,,,Norte,RPGA dos Rios Verde e Jacaré,225
+Central,-11.135391,-42.093468,297.25,71.5,,,,,,,,,,,Norte,RPGA dos Rios Verde e Jacaré,368.75
+Jaguarari (Santa Rosa) - SM-PR-01,-10.098374,-39.869774,261,,,,,,,,,,,,Norte,RPGA dos Rios Macururé e Curaçá,261
+Mirangaba - IT-PR-29,-10.954784,-40.574527,429.25,,,,,,,,,,,,Norte,RPGA do Rio Itapicuru,429.25
+Olho D'Água,-10.700331,-40.601468,148.75,,,,,,,,,,,,Norte,RPGA do Rio Salitre,148.75
+Mirangaba (Taquarendi) - SA-PR-01,-10.893669,-40.687028,344.5,,,,,,,,,,,,Norte,RPGA do Rio Salitre,344.5
+Campo Formoso - EBDA,-10.501287,-40.317761,378,116.5,41,34,96,,,,,,,,Norte,RPGA do Rio Itapicuru,665.5
+Barreiras (Fazenda Pró Café) - GR-PR-19,-12.160625,-45.330802,,247.2,351.8,8.2,,,,,12.6,127.5,151.1,127.9,Oeste,RPGA do Rio Grande,747.31
+Barreiras - 83236,-12.155556,-45.007778,370.9,201.1,211.3,27.4,0.4,0,,,3.4,79.5,123.6,142,Oeste,RPGA do Rio Grande,894
+Camaçari - 83226,-12.701619,-38.334661,393.1,64.8,33.9,281.7,111.7,226.3,149.8,,35.2,120.1,98.8,3.2,Recôncavo,RPGA do Recôncavo Norte,1416.6
+Feira de Santana - PG-PR-13,-12.268161,-38.96642,196.5,71,,,,,,,,,,,Recôncavo,RPGA do Rio Paraguaçu,267.5
+Itatim - PG-PR-14,-12.720391,-39.700059,214,,,,,,,,,9.2,,,Recôncavo,RPGA do Rio Paraguaçu,223.2
+Ituberá - EBDA,-13.734692,-39.13441,289.7,119,,,,,,,77.7,45.8,172.8,,Recôncavo,RPGA do Recôncavo Sul,532.2
+Espinheira,-14.283478,-41.75792,192.25,,,,,,,,,,,,Sudoeste,RPGA do Rio de Contas,192.25
+Tremedal - EBDA,-14.977207,-41.411976,236.75,110,,,,,,,,,,,Sudoeste,RPGA do Rio de Contas,346.75
+Vitória da Conquista - PA-CL-01,-14.886111,-40.800833,165.25,236.5,399,80.5,,,,,,,,,Sudoeste,RPGA do Rio Pardo,881.25
+Tremedal - CO-PR-03,-14.980998,-41.410135,236.75,,,,,,,,,,,,Sudoeste,RPGA do Rio de Contas,236.75
+Canavieiras - 83398,-15.666667,-38.95,,108.5,242.9,,,,,,38.5,,,,Sul,RPGA do Rio Pardo,389.9
+Camacã - EBDA,-15.418056,-39.501095,176.1,139.7,373.2,89.9,119.5,164.2,,,20,33.4,224.9,,Sul,RPGA do Rio Pardo,1116
+Arataca - EBDA,-15.268055,-39.417759,100.6,110,250.9,132.5,108.9,120.7,,,18.9,29.7,203.7,,Sul,RPGA do Leste,872.2
+Mascote - EBDA,-15.568061,-39.301089,,,383.1,93.3,147.6,179.1,,,25.2,36,197.5,,Sul,RPGA do Rio Pardo,864.31
+Santa Luzia - EBDA,-15.434725,-39.334423,222,90.3,294.7,102.7,110.2,119.4,,,19.2,46.5,237.6,,Sul,RPGA do Leste,1005.01
+Floresta Azul - EBDA,-14.868046,-39.651095,130.8,38.8,184,78,68.3,73.9,,,13.7,15.9,143.2,,Sul,RPGA do Leste,603.41
+Itaju do Colônia - EBDA,-15.134717,-39.717765,114.7,103.2,302.6,98.7,78.3,58.3,,,11.9,25.9,119.1,,Sul,RPGA do Leste,793.6
+Itajuípe - EBDA,-14.668043,-39.367753,163.6,83,268.7,195.4,229.4,104,,,18.8,52,274.9,,Sul,RPGA do Leste,1114.9
+Pau Brasil - EBDA,-15.468058,-39.651098,133.9,93.1,,,,,,,17.8,13,205.4,,Sul,RPGA do Rio Pardo,257.8
+Coaraci - EBDA,-14.634708,-39.551092,151.4,108.2,182.5,94.8,83.9,78.3,,,15.3,74.4,195.6,,Sul,RPGA do Leste,788.8
+Ibicaraí - EBDA,-14.868046,-39.584428,115.2,60.5,250.8,87.5,86.7,113.8,,,11,38.5,134.2,,Sul,RPGA do Leste,764
+Ilhéus - 01 - EBDA,-14.784713,-39.05108,72.4,57.2,395.7,,214,118.2,,,0,59.9,202.9,,Sul,RPGA do Leste,917.4
+Ubaitaba - EBDA,-14.318037,-39.31775,128.3,148.7,202.5,131.2,144.9,99.8,,,20.3,81,328.2,,Sul,RPGA do Rio de Contas,956.7
+Itapebi - EBDA,-15.968068,-39.534431,81.6,165.1,167.4,64.2,135.2,49.2,,,13.3,1,210.8,,Sul,RPGA do Rio Jequitinhonha,677
+Canavieiras - EBDA,-15.684731,-38.95108,155.6,84.1,191.3,119.3,318.8,269.2,,,14.5,48.1,154.8,,Sul,RPGA do Rio Pardo,1200.9
+Uruçuca - EBDA,-14.601377,-39.284419,129,110,,,,,,,16.6,53.4,359.7,,Sul,RPGA do Leste,309
+Una - EBDA,-15.301389,-39.084416,250.9,182.1,178.7,197.7,216.7,173,,,36,49.1,179.1,,Sul,RPGA do Leste,1284.2
+Ilhéus (CPLAC) - LE-CL-01,-14.80184,-39.181444,134.5,138.25,310.75,142.5,150.5,,,,,,,,Sul,RPGA do Leste,876.5
+Camamu - EBDA,-13.951362,-39.117744,377.7,,356.5,176.1,320.2,167.5,,,61.3,115.3,198.3,,Sul,RPGA do Recôncavo Sul,1574.6
+Fazenda Caraíbas,-12.571486,-42.074028,286.5,,,,,,,,,,,,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,286.5

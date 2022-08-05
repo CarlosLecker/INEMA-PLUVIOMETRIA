@@ -1,0 +1,40 @@
+Dados de Precipitação Mensal das Estações,,,,,,,,,,,,,,,,,
+Estação,Latitude,Longitude,Jan/95,Fev/95,Mar/95,Abr/95,Mai/95,Jun/95,Jul/95,Ago/95,Set/95,Out/95,Nov/95,Dez/95,Região,Rpga,Total
+Itaberaba - 83244,-12.516667,-40.283333,25.7,9.2,52.7,62.8,24.1,24.9,54.5,20.5,15.6,8.8,128.3,121.8,Chapada Diamantina,RPGA do Rio Paraguaçu,298.8
+Lençóis - 83242,-12.5575,-41.388889,56.6,15.6,109.6,104,,45.1,51.4,,11.5,23.6,191,333.2,Chapada Diamantina,RPGA do Rio Paraguaçu,417.41
+Andaraí - 1241008,-12.801332,-41.284461,,,,,54.2,56.8,,45.8,30,22.8,297.4,826,Chapada Diamantina,RPGA do Rio Paraguaçu,209.61
+Morro do Chapéu - 83184,-11.216667,-41.216667,84.4,73.6,67.9,124.5,31.9,21.5,42.4,17.2,24.8,6.6,113.9,146.6,Chapada Diamantina,RPGA do Rio Salitre,494.8
+Cipó - 83192,-11.083333,-38.516667,23.7,4.1,46.6,26.5,70.2,42.3,60.5,22.3,26.3,1.4,154.6,73.3,Nordeste,RPGA do Rio Itapicuru,323.91
+Jacobina - 83186,-11.172778,-40.534167,13.7,36.8,100.3,99.8,39.1,50.3,57.4,28.9,31.3,0,90.5,246.6,Nordeste,RPGA do Rio Itapicuru,457.6
+Monte Santo - 83090,-10.4425,-39.331111,21.1,15.7,25.4,25.7,69.8,19.6,74.1,17.5,7,1,156.6,114.6,Nordeste,RPGA do Rio Itapicuru,276.9
+Paulo Afonso - 82986,-9.379325,-38.227424,6.4,60.3,51.7,20,38.7,107.1,57.4,18.7,5,0,34.8,9.3,Nordeste,RPGA dos Rios Macururé e Curaçá,365.3
+Senhor do Bonfim - 83088,-10.490649,-40.100044,78.9,31.8,51.9,106.4,96.9,36,87.5,27.8,13.4,0.2,97.4,124.9,Nordeste,RPGA do Rio Itapicuru,530.8
+Serrinha - 83190,-11.633333,-38.966667,,86.8,,92.6,81.2,77.2,66,22.6,17.7,0.2,190.3,56.6,Nordeste,RPGA do Recôncavo Norte,444.3
+Irecê - 83182,-11.3,-41.866667,65,166.2,41.3,13.3,16.5,,,1.3,0,49.4,163.4,111.4,Norte,RPGA dos Rios Verde e Jacaré,353
+Remanso - 82979,-9.633333,-42.1,128.3,267.6,86.2,70.4,6.1,0,0,1.2,0,26.8,70.2,94,Norte,RPGA do Lago de Sobradinho,586.6
+Barreiras (Form. Rio Preto) - 46550000,-11.154444,-45.009166,99.7,171.2,146,41.6,98.7,0,0,0,0,63.6,229.8,368.6,Oeste,RPGA do Rio Grande,620.81
+São Desidério (Fazenda Coqueiro) - 46490000,-12.390474,-44.93344,107.7,206.5,138.3,54.5,48,0,0,0,0,142.5,289.5,263.1,Oeste,RPGA do Rio Grande,697.5
+Barreiras (Nova Vida Montante) - 46590000,-11.867963,-45.084552,123.6,87.6,85.9,30,65.3,0,0,0,0,40.7,243.8,292.6,Oeste,RPGA do Rio Grande,433.1
+São Desidério (Derocal) - 46455000,-12.412696,-45.121499,82.7,187.7,80.9,74.6,56,0,0,0,0,135.8,161.3,217.2,Oeste,RPGA do Rio Grande,617.7
+Barreiras - 83236,-12.155556,-45.007778,94,156.4,144.6,52.8,99.1,0.2,0,0,0,58.3,225.7,355.9,Oeste,RPGA do Rio Grande,605.4
+Correntina - 83286,-13.332222,-44.617222,59.7,188.2,226.2,40.4,62.4,0,0,0,0,27.6,319.4,355.4,Oeste,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",604.5
+Salvador (Ondina) - 83229,-13.005278,-38.505833,18.9,35,81.8,286.2,473.5,245.3,178,78.3,67.3,16.5,156.4,41.9,Recôncavo,RPGA do Recôncavo Norte,1480.8
+Alagoinhas - 83249,-12.148333,-38.425556,6.5,3.7,28.7,157.7,167.1,88.2,79.8,37.7,32.2,1.4,118.2,122,Recôncavo,RPGA do Recôncavo Norte,603
+Camaçari - 83226,-12.701619,-38.334661,3,51.7,87,240.9,389.9,270,118.1,84.7,101.7,13.7,202,,Recôncavo,RPGA do Recôncavo Norte,1360.7
+Cruz das Almas - 83222,-12.666667,-39.083333,0,9.4,73,148.5,87.9,113.5,130.4,58.1,102.3,3.9,249,98.3,Recôncavo,RPGA do Rio Paraguaçu,727
+Feira de Santana - 83221,-12.196111,-38.967222,5.3,,,75.2,113.4,,,,,,,,Recôncavo,RPGA do Recôncavo Norte,193.9
+Jequié,-13.883579,-40.141382,,2,18.7,34.8,13.9,4.2,65.9,2.1,2.1,,148.9,247.6,Sudoeste,RPGA do Rio de Contas,143.7
+Tanhaçu - Santo Antônio (ANA),-14.100801,-41.292245,25.8,0,51.8,103.1,22.9,0.6,22,0,0,80.7,196.5,280.1,Sudoeste,RPGA do Rio de Contas,306.9
+Vitória da Conquista - 83344,-14.883333,-40.8,37.1,0.3,87.8,60.4,22.1,19.5,96.3,13.2,33.1,115.1,105.7,239.3,Sudoeste,RPGA do Rio Pardo,484.9
+Ituruçu (Jaguaquara) - 83295,-13.527828,-40.119752,48.7,,,47.1,36.2,69.7,81.8,34.5,59.4,29.3,201.4,133.9,Sudoeste,RPGA do Recôncavo Sul,406.7
+Mascote - 53950000,-15.565561,-39.302756,6.4,3.2,132.9,144.4,95.1,68.3,227.2,99.1,73.8,75,166.5,92.6,Sul,RPGA do Rio Pardo,925.4
+Canavieiras - 83398,-15.666667,-38.95,21.6,,108.8,337.3,173.4,210.4,172.4,,40.4,129,90.3,106.2,Sul,RPGA do Rio Pardo,1193.3
+Caravelas - 83498,-17.739167,-39.258333,33,2.9,239,511.4,226.2,41.2,157.8,23.7,92.7,114.6,171.8,204.3,Sul,"RPGA dos Rios Peruípe, Itanhém e Jucuruçu",1442.5
+Guaratinga - 83446,-16.58,-39.78,,1,177.2,149.7,89.4,33,124.4,21.6,37.3,106,278.4,234.8,Sul,"RPGA dos Rios dos Frades, Buranhém e Santo Antônio",739.6
+Ibotirama - 46150000,-12.181866,-43.224509,70.2,258.2,194.3,63.5,16.3,0,0,0,0,67.8,136.3,205.5,São Francisco,RPGA dos Rios Paramirim e Santo Onofre,670.3
+Barra - 83179,-11.083333,-43.166667,79.1,91.2,,37.5,111,0.3,0,0,0,67.3,206.2,176,São Francisco,RPGA do Rio Grande,386.41
+Bom Jesus da Lapa - 83288,-13.251389,-43.405278,54.5,179.1,126.6,72.3,17.2,,0,0,0,77.2,115,378.4,São Francisco,RPGA do Rio Carnaíba de Dentro,526.9
+Caetité - 83339,-14.066667,-42.483333,37.8,48.6,102,102,8.1,1.4,15.8,2.8,7,156.6,182.5,158.4,São Francisco,RPGA do Rio de Contas,482.1
+Carinhanha - 83408,-14.283333,-43.766667,132.9,199.8,125.6,30.5,11.2,0,0,0,0,26.4,150,,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",526.41
+Carinhanha - ANA,-14.305792,-43.769253,129.4,180.4,119.7,32.2,12.2,0,0,0,0,24.6,167.5,254.1,São Francisco,"RPGA do Rio Corrente e Riachos do Ramalho, Serra Dourada e Brejo Velho",498.5
+Santa Rita de Cássia - 83076,-11.016667,-44.516667,172,128.9,115.7,41.6,102.6,0,0,0,0,39.3,279.5,,São Francisco,RPGA do Rio Grande,600.1
